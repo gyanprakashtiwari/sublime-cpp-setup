@@ -3,11 +3,14 @@ using namespace std;
 
 #define int long long
 #define lld long double
+#define debug(x) cerr << #x << " = " << x << endl;
+
 
 
 
 
 void solve() {
+
 
 
 
